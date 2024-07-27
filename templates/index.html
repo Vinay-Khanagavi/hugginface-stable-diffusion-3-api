@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Generator</title>
+</head>
+<body>
+    <h1>Image Generator</h1>
+    <form method="POST" action="/generate">
+        <label for="prompt">Prompt:</label><br>
+        <textarea id="prompt" name="prompt" rows="4" cols="50"></textarea><br><br>
+
+        <label for="style">Style (Optional):</label><br>
+        <textarea id="style" name="style" rows="2" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Generate Image">
+    </form>
+</body>
+</html>
