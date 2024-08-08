@@ -2,5 +2,5 @@
 
 https://platform.stability.ai/account/keys
 
-# huggin face
+# Try SD 3 here 
 https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium
